@@ -12,6 +12,7 @@ This project explores various model strategies for classifying science multiple-
  using full training data.
 - `quantum_hybrid_custom_LLM.ipynb`: Hybrid model combining TF-IDF features + quantum kernel.
 - `quantum_kernel_LLM.ipynb`: Pure quantum-kernel-enhanced transformer model trained on limited data.
+- `bert_LLM_100_samples.ipynb`: Pretrained BERT fine-tuned on the 100 samples for comparison with quantum_kernel_LLM.ipynb
 
 ---
 
